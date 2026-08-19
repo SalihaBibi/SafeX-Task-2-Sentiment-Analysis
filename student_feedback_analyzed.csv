@@ -1,0 +1,301 @@
+review_id,category,review,word_count,cleaned_review,compound_score,sentiment
+1,Communication,Some information was shared later than expected.,7,information shared later expected,0.34,Positive
+2,Assignments,The assignment deadlines were too close together.,7,assignment deadlines close together,0.0,Neutral
+3,Assignments,Some assignment instructions were confusing and incomplete.,7,assignment instructions confusing incomplete,-0.2263,Negative
+4,Learning Material,The learning material contained useful practical examples.,7,learning material contained useful practical examples,0.4404,Positive
+5,Mentorship,The mentor helped me identify mistakes and improve my approach.,10,mentor helped identify mistakes improve approach,0.1027,Positive
+6,Instructor,The instructor sometimes changed instructions without explaining the reason.,9,instructor sometimes changed instructions without explaining reason,0.0,Neutral
+7,Learning Material,The material provided useful references for assignments.,7,material provided useful references assignments,0.4404,Positive
+8,Assignments,The assignment questions were clear and related to the course content.,11,assignment questions clear related course content,0.3818,Positive
+9,Instructor,The instructor usually explained the topics at a reasonable pace.,10,instructor usually explained topics reasonable pace,0.0,Neutral
+10,Assignments,The assignments helped me practice the concepts taught in class.,10,assignments helped practice concepts taught class,0.0,Neutral
+11,Projects,The project was useful but required additional research.,8,project useful required additional research,0.2382,Positive
+12,Communication,The communication process made the internship easier to manage.,9,communication process made internship easier manage,0.4215,Positive
+13,Projects,The project helped me improve my documentation skills.,8,project helped improve documentation skills,0.4404,Positive
+14,Internship,The internship experience was useful for my career development.,9,internship experience useful career development,0.4404,Positive
+15,Assignments,The assignment workload created unnecessary pressure.,6,assignment workload created unnecessary pressure,-0.0516,Negative
+16,Mentorship,The regular guidance made the internship easier to manage.,9,regular guidance made internship easier manage,0.4215,Positive
+17,Mentorship,The mentor shared useful resources for learning.,7,mentor shared useful resources learning,0.6486,Positive
+18,Projects,I would recommend including similar projects in future courses.,9,would recommend including similar projects future courses,0.3612,Positive
+19,Assignments,The assignments were challenging but improved my understanding.,8,assignments challenging improved understanding,0.6652,Positive
+20,Assignments,The assignment workload was moderate during most weeks.,8,assignment workload moderate weeks,0.0,Neutral
+21,Course,The course workload was too heavy compared with the available time.,11,course workload heavy compared available time,0.0,Neutral
+22,Course,The course covered the important topics that were expected from the subject.,12,course covered important topics expected subject,0.2023,Positive
+23,Assignments,The assignments were acceptable but could include more practical problems.,10,assignments acceptable could include practical problems,-0.5135,Negative
+24,Internship,The internship included a reasonable combination of learning and practical tasks.,11,internship included reasonable combination learning practical tasks,0.0,Neutral
+25,Internship,The internship improved my confidence in working on technical projects.,10,internship improved confidence working technical projects,0.7506,Positive
+26,Assignments,Some assignments were useful while others were less relevant.,9,assignments useful others less relevant,0.4404,Positive
+27,Course,The course gave me confidence to work on similar projects independently.,11,course gave confidence work similar projects independently,0.5106,Positive
+28,Course,The course included both theoretical concepts and some practical activities.,10,course included theoretical concepts practical activities,0.0,Neutral
+29,Communication,Most announcements were shared through the expected channels.,8,announcements shared expected channels,0.3947,Positive
+30,Projects,The project provided some opportunities for creative solutions.,8,project provided opportunities creative solutions,0.7351,Positive
+31,Mentorship,The guidance helped me become more confident with technical tasks.,10,guidance helped become confident technical tasks,0.5413,Positive
+32,Projects,The project was challenging but rewarding.,6,project challenging rewarding,0.7096,Positive
+33,Instructor,The instructor was supportive and encouraged students to ask questions.,10,instructor supportive encouraged students ask questions,0.5719,Positive
+34,Internship,The internship provided valuable exposure to real project requirements.,9,internship provided valuable exposure real project requirements,0.4767,Positive
+35,Projects,The project was a valuable addition to the course.,9,project valuable addition course,0.4767,Positive
+36,Course,Several topics were covered too quickly and were difficult to understand.,11,several topics covered quickly difficult understand,-0.3612,Negative
+37,Learning Material,The provided notes were difficult to understand without additional resources.,10,provided notes difficult understand without additional resources,-0.3612,Negative
+38,Projects,The project did not provide enough opportunities for practical learning.,10,project provide enough opportunities practical learning,-0.2924,Negative
+39,Mentorship,The mentorship experience did not meet my expectations.,8,mentorship experience meet expectations,0.0,Neutral
+40,Assignments,The feedback on assignments was often delayed.,7,feedback assignments often delayed,-0.2263,Negative
+41,Projects,The project required tools that were not properly explained.,9,project required tools properly explained,0.0,Neutral
+42,Instructor,The instructor spent too much time on theory and not enough on practical examples.,14,instructor spent much time theory enough practical examples,0.0,Neutral
+43,Communication,I received important updates on time.,6,received important updates time,0.2023,Positive
+44,Assignments,The instructions were generally clear but a few questions needed clarification.,11,instructions generally clear questions needed clarification,0.2023,Positive
+45,Assignments,The workload from assignments was manageable.,6,workload assignments manageable,0.0,Neutral
+46,Instructor,The instructor encouraged me to improve my problem-solving skills.,9,instructor encouraged improve problemsolving skills,0.6597,Positive
+47,Mentorship,The mentor gave practical advice about professional development.,8,mentor gave practical advice professional development,0.0,Neutral
+48,Learning Material,The study resources helped me prepare for assessments.,8,study resources helped prepare assessments,0.0,Neutral
+49,Mentorship,The mentor gave feedback on major project milestones.,8,mentor gave feedback major project milestones,0.0,Neutral
+50,Instructor,The instructor explained difficult concepts clearly and patiently.,8,instructor explained difficult concepts clearly patiently,0.0516,Positive
+51,Learning Material,The additional resources helped me explore topics beyond the syllabus.,10,additional resources helped explore topics beyond syllabus,0.0,Neutral
+52,Course,I found the course interesting and useful for building my technical knowledge.,12,found course interesting useful building technical knowledge,0.6808,Positive
+53,Projects,The project improved my ability to work with a team.,10,project improved ability work team,0.6597,Positive
+54,Internship,I learned several new skills during the internship.,8,learned several new skills internship,0.0,Neutral
+55,Learning Material,The resources helped me study independently.,6,resources helped study independently,0.0,Neutral
+56,Instructor,The instructor gave helpful feedback on student work.,8,instructor gave helpful feedback student work,0.4215,Positive
+57,Course,The course provided a good balance between theory and practical learning.,11,course provided good balance theory practical learning,0.4404,Positive
+58,Instructor,The instructor made the classroom environment comfortable for learning.,9,instructor made classroom environment comfortable learning,0.5106,Positive
+59,Mentorship,The mentor explained tasks clearly and answered my questions.,9,mentor explained tasks clearly answered questions,0.4019,Positive
+60,Course,The course was useful because the projects were related to real-world problems.,12,course useful projects related realworld problems,0.0516,Positive
+61,Internship,The overall internship experience was disappointing.,6,overall internship experience disappointing,-0.4939,Negative
+62,Learning Material,The combination of videos and notes supported different learning styles.,10,combination videos notes supported different learning styles,0.3182,Positive
+63,Assignments,The assignments helped reinforce important concepts.,6,assignments helped reinforce important concepts,0.2023,Positive
+64,Learning Material,The learning resources were not organized in a clear order.,10,learning resources organized clear order,-0.2924,Negative
+65,Assignments,"Overall, the assignment system supported my learning.",7,overall assignment system supported learning,0.3182,Positive
+66,Mentorship,The guidance provided was adequate for completing the tasks.,9,guidance provided adequate completing tasks,0.2263,Positive
+67,Instructor,The instructor answered questions when students requested clarification.,8,instructor answered questions students requested clarification,0.0,Neutral
+68,Assignments,The assignments provided reasonable opportunities to practice.,7,assignments provided reasonable opportunities practice,0.3818,Positive
+69,Course,The topics were relevant to my field of study and career goals.,12,topics relevant field study career goals,0.0,Neutral
+70,Projects,The project helped me build something that could be added to my portfolio.,13,project helped build something could added portfolio,0.0,Neutral
+71,Course,The course was neither too difficult nor too easy for most of the semester.,14,course neither difficult easy semester,-0.0762,Negative
+72,Communication,The information provided was adequate for completing tasks.,8,information provided adequate completing tasks,0.2263,Positive
+73,Projects,Team coordination made the project difficult to complete.,8,team coordination made project difficult complete,-0.3612,Negative
+74,Internship,I would recommend this internship to students looking for practical experience.,11,would recommend internship students looking practical experience,0.3612,Positive
+75,Internship,The tasks sometimes felt like routine work rather than learning opportunities.,11,tasks sometimes felt like routine work rather learning opportunities,0.6249,Positive
+76,Internship,The program provided useful learning opportunities.,6,program provided useful learning opportunities,0.6705,Positive
+77,Assignments,The combination of theoretical and practical questions was useful.,9,combination theoretical practical questions useful,0.4404,Positive
+78,Mentorship,Feedback from the mentor was often delayed.,7,feedback mentor often delayed,-0.2263,Negative
+79,Projects,The project allowed us to apply concepts from different parts of the course.,13,project allowed us apply concepts different parts course,0.0,Neutral
+80,Course,The course covered the basic concepts but could have included more advanced topics.,13,course covered basic concepts could included advanced topics,0.4478,Positive
+81,Instructor,The instructor followed the planned syllabus for most of the course.,11,instructor followed planned syllabus course,0.0,Neutral
+82,Learning Material,The course resources improved my understanding of difficult topics.,9,course resources improved understanding difficult topics,0.1531,Positive
+83,Course,The course provided several opportunities to practice what we learned.,10,course provided several opportunities practice learned,0.3818,Positive
+84,Course,The course helped me improve my understanding of machine learning concepts.,11,course helped improve understanding machine learning concepts,0.4404,Positive
+85,Assignments,The assignments were useful for identifying areas where I needed improvement.,11,assignments useful identifying areas needed improvement,0.7096,Positive
+86,Instructor,The explanations were unclear during some of the more difficult lectures.,11,explanations unclear difficult lectures,-0.5849,Negative
+87,Course,The course was informative and provided useful knowledge for future projects.,11,course informative provided useful knowledge future projects,0.4404,Positive
+88,Mentorship,The mentor rarely responded to questions.,6,mentor rarely responded questions,0.0,Neutral
+89,Course,The overall course experience was disappointing because of poor organization.,10,overall course experience disappointing poor organization,-0.743,Negative
+90,Course,The course lacked practical activities that could help students apply their knowledge.,12,course lacked practical activities could help students apply knowledge,0.4019,Positive
+91,Mentorship,The mentor created a comfortable environment for asking questions.,9,mentor created comfortable environment asking questions,0.6486,Positive
+92,Communication,Updates were provided at different times through different channels.,9,updates provided different times different channels,0.0,Neutral
+93,Learning Material,The quality of the learning material was satisfactory.,8,quality learning material satisfactory,0.3612,Positive
+94,Learning Material,The examples in the learning material made difficult topics easier.,10,examples learning material made difficult topics easier,0.0772,Positive
+95,Internship,The internship experience was acceptable overall.,6,internship experience acceptable overall,0.3182,Positive
+96,Learning Material,The learning resources made revision easier.,6,learning resources made revision easier,0.4215,Positive
+97,Learning Material,The learning material was helpful when preparing for exams.,9,learning material helpful preparing exams,0.4215,Positive
+98,Instructor,The instructor did not give enough feedback on assignments.,9,instructor give enough feedback assignments,0.0,Neutral
+99,Learning Material,The learning material was one of the useful parts of the course.,12,learning material one useful parts course,0.4404,Positive
+100,Assignments,The assignments required a moderate amount of effort.,8,assignments required moderate amount effort,0.0,Neutral
+101,Learning Material,The notes were acceptable but needed more examples.,8,notes acceptable needed examples,0.1655,Positive
+102,Mentorship,The mentor was sometimes unavailable when support was needed.,9,mentor sometimes unavailable support needed,0.4019,Positive
+103,Projects,The project helped me understand the subject more deeply.,9,project helped understand subject deeply,0.0,Neutral
+104,Internship,The program was a good opportunity to apply academic knowledge.,10,program good opportunity apply academic knowledge,0.6908,Positive
+105,Course,The course objectives were not clearly explained at the beginning.,10,course objectives clearly explained beginning,-0.3089,Negative
+106,Learning Material,The learning material covered the required topics.,7,learning material covered required topics,0.0,Neutral
+107,Communication,Communication was acceptable but could be more consistent.,8,communication acceptable could consistent,0.1655,Positive
+108,Learning Material,The videos and notes supported my understanding of the subject.,10,videos notes supported understanding subject,0.3182,Positive
+109,Projects,The project encouraged me to explore technologies beyond the syllabus.,10,project encouraged explore technologies beyond syllabus,0.3612,Positive
+110,Assignments,The assignments were useful preparation for the final project.,9,assignments useful preparation final project,0.4404,Positive
+111,Learning Material,Some links and resources were no longer available.,8,links resources longer available,-0.296,Negative
+112,Assignments,The assignments encouraged me to research and solve problems independently.,10,assignments encouraged research solve problems independently,0.1531,Positive
+113,Projects,The project lacked realistic examples to guide students.,8,project lacked realistic examples guide students,0.0,Neutral
+114,Projects,The project was too difficult because there was not enough guidance.,11,project difficult enough guidance,-0.3612,Negative
+115,Internship,The internship was well structured and easy to follow.,9,internship well structured easy follow,0.6124,Positive
+116,Course,The lessons were connected logically and helped me build knowledge step by step.,13,lessons connected logically helped build knowledge step step,0.0,Neutral
+117,Learning Material,The practical examples in the notes improved my understanding.,9,practical examples notes improved understanding,0.4767,Positive
+118,Learning Material,The learning material was repetitive and lacked useful examples.,9,learning material repetitive lacked useful examples,0.2263,Positive
+119,Course,The course was satisfactory and covered most of the required topics.,11,course satisfactory covered required topics,0.3612,Positive
+120,Mentorship,My mentor was supportive and provided useful feedback.,8,mentor supportive provided useful feedback,0.6249,Positive
+121,Projects,The project was interesting and closely related to real-world applications.,10,project interesting closely related realworld applications,0.4019,Positive
+122,Instructor,The instructor was knowledgeable and answered most questions confidently.,9,instructor knowledgeable answered questions confidently,0.5233,Positive
+123,Mentorship,The mentor answered most questions within a reasonable time.,9,mentor answered questions within reasonable time,0.0,Neutral
+124,Communication,Regular updates helped me understand project expectations.,7,regular updates helped understand project expectations,0.0,Neutral
+125,Mentorship,The mentor provided guidance when it was requested.,8,mentor provided guidance requested,0.0,Neutral
+126,Internship,The tasks provided reasonable opportunities to learn new technologies.,9,tasks provided reasonable opportunities learn new technologies,0.3818,Positive
+127,Instructor,The instructor encouraged students to participate in discussions.,8,instructor encouraged students participate discussions,0.3612,Positive
+128,Communication,The instructions were clear and easy to follow.,8,instructions clear easy follow,0.6705,Positive
+129,Course,The course was well planned and the weekly learning objectives were clear.,12,course well planned weekly learning objectives clear,0.5719,Positive
+130,Learning Material,The resources were easy to access and follow.,8,resources easy access follow,0.4404,Positive
+131,Instructor,The instructor connected classroom concepts with real industry examples.,9,instructor connected classroom concepts real industry examples,0.0,Neutral
+132,Projects,The overall project experience was satisfactory.,6,overall project experience satisfactory,0.3612,Positive
+133,Course,The course material was outdated and needed to be updated.,10,course material outdated needed updated,0.0,Neutral
+134,Instructor,The instructor often moved through difficult topics too quickly.,9,instructor often moved difficult topics quickly,-0.3612,Negative
+135,Course,The practical activities made the course more engaging and useful.,10,practical activities made course engaging useful,0.7056,Positive
+136,Projects,The project instructions were mostly clear.,6,project instructions mostly clear,0.3818,Positive
+137,Course,The overall course experience was positive and educational.,8,overall course experience positive educational,0.5574,Positive
+138,Communication,The communication channels were easy to use.,7,communication channels easy use,0.4404,Positive
+139,Internship,The internship provided valuable practical experience.,6,internship provided valuable practical experience,0.4767,Positive
+140,Learning Material,The examples were relevant to real-world applications.,7,examples relevant realworld applications,0.0,Neutral
+141,Projects,The project included both research and implementation work.,8,project included research implementation work,0.0,Neutral
+142,Instructor,The instructor was professional and well prepared for the lectures.,10,instructor professional well prepared lectures,0.4588,Positive
+143,Instructor,The instructor responded to most student questions.,7,instructor responded student questions,0.0,Neutral
+144,Projects,The project encouraged teamwork and collaboration.,6,project encouraged teamwork collaboration,0.3612,Positive
+145,Learning Material,The learning material contained too many confusing explanations.,8,learning material contained many confusing explanations,-0.2263,Negative
+146,Assignments,The instructions for most assignments were clear.,7,instructions assignments clear,0.4336,Positive
+147,Instructor,The instructor's teaching style was acceptable overall.,7,instructors teaching style acceptable overall,0.3182,Positive
+148,Communication,The team usually responded to questions.,6,team usually responded questions,0.0,Neutral
+149,Projects,The project gave me experience solving real-world problems.,8,project gave experience solving realworld problems,-0.0772,Negative
+150,Mentorship,The mentor provided useful career-related suggestions.,6,mentor provided useful careerrelated suggestions,0.4404,Positive
+151,Projects,The final project gave me confidence in applying my technical knowledge.,11,final project gave confidence applying technical knowledge,0.5106,Positive
+152,Internship,The internship was useful but could include more advanced tasks.,10,internship useful could include advanced tasks,0.598,Positive
+153,Internship,The internship gave me an opportunity to work on meaningful tasks.,11,internship gave opportunity work meaningful tasks,0.6249,Positive
+154,Communication,Communication with the team was clear and professional.,8,communication team clear professional,0.3818,Positive
+155,Course,"The course content was useful, although some topics required additional study.",11,course content useful although topics required additional study,0.4404,Positive
+156,Projects,Working on the project improved my technical and problem-solving skills.,10,working project improved technical problemsolving skills,0.4767,Positive
+157,Assignments,The practical tasks improved my confidence in programming.,8,practical tasks improved confidence programming,0.7506,Positive
+158,Instructor,The instructor was one of the strongest parts of the course.,11,instructor one strongest parts course,0.4404,Positive
+159,Internship,The internship helped me understand professional project workflows.,8,internship helped understand professional project workflows,0.0,Neutral
+160,Assignments,Most assignments were completed within the given deadlines.,8,assignments completed within given deadlines,0.0,Neutral
+161,Internship,The overall internship experience was satisfactory.,6,overall internship experience satisfactory,0.3612,Positive
+162,Course,The course gave me a good foundation in the subject.,10,course gave good foundation subject,0.4404,Positive
+163,Learning Material,Some resources were helpful while others were less detailed.,9,resources helpful others less detailed,0.4215,Positive
+164,Instructor,The lectures could have been more interactive and engaging.,9,lectures could interactive engaging,0.3947,Positive
+165,Internship,I gained practical experience that I can include in my portfolio.,11,gained practical experience include portfolio,0.3818,Positive
+166,Mentorship,The mentor provided useful suggestions for improving projects.,8,mentor provided useful suggestions improving projects,0.6908,Positive
+167,Internship,Some tasks were unrelated to the skills I wanted to develop.,11,tasks unrelated skills wanted develop,0.0,Neutral
+168,Internship,The internship improved my ability to manage technical tasks.,9,internship improved ability manage technical tasks,0.6597,Positive
+169,Assignments,The assignments encouraged creative problem solving.,6,assignments encouraged creative problem solving,0.6249,Positive
+170,Projects,There was not enough feedback during the project.,8,enough feedback project,0.0,Neutral
+171,Assignments,Some assignments were difficult because examples were not provided.,9,assignments difficult examples provided,-0.3612,Negative
+172,Assignments,The assignments were a good way to review weekly topics.,10,assignments good way review weekly topics,0.4404,Positive
+173,Mentorship,The mentor discussed my progress during regular meetings.,8,mentor discussed progress regular meetings,0.4215,Positive
+174,Internship,The internship provided good exposure to a professional work environment.,10,internship provided good exposure professional work environment,0.4404,Positive
+175,Internship,The practical tasks improved my technical abilities.,7,practical tasks improved technical abilities,0.6249,Positive
+176,Mentorship,The mentor was approachable and professional.,6,mentor approachable professional,0.0,Neutral
+177,Assignments,The assignments covered the main topics from the lectures.,9,assignments covered main topics lectures,0.0,Neutral
+178,Assignments,The assignments required more time than was available.,8,assignments required time available,0.0,Neutral
+179,Learning Material,The lecture notes provided useful explanations of the main concepts.,10,lecture notes provided useful explanations main concepts,0.4404,Positive
+180,Course,I would recommend this course to students interested in developing technical skills.,12,would recommend course students interested developing technical skills,0.6369,Positive
+181,Learning Material,The learning material was adequate for the course.,8,learning material adequate course,0.2263,Positive
+182,Course,I enjoyed the course because it included useful examples and practical exercises.,12,enjoyed course included useful examples practical exercises,0.7351,Positive
+183,Assignments,The difficulty level of the assignments was appropriate.,8,difficulty level assignments appropriate,-0.34,Negative
+184,Internship,The workload was difficult to manage during some weeks.,9,workload difficult manage weeks,-0.3612,Negative
+185,Assignments,The assignments were unnecessarily difficult and time consuming.,8,assignments unnecessarily difficult time consuming,-0.3612,Negative
+186,Instructor,The instructor regularly checked whether students understood the topic.,9,instructor regularly checked whether students understood topic,0.0,Neutral
+187,Instructor,The instructor made difficult programming topics much easier to understand.,10,instructor made difficult programming topics much easier understand,0.0772,Positive
+188,Instructor,The instructor used practical examples to make complicated topics easier.,10,instructor used practical examples make complicated topics easier,0.4215,Positive
+189,Learning Material,The learning material was clear and easy to understand.,9,learning material clear easy understand,0.6705,Positive
+190,Mentorship,The mentor encouraged me to learn independently.,7,mentor encouraged learn independently,0.3612,Positive
+191,Assignments,The assignments improved my ability to solve problems independently.,9,assignments improved ability solve problems independently,0.5423,Positive
+192,Projects,The practical project helped me understand how theoretical concepts are used.,11,practical project helped understand theoretical concepts used,0.0,Neutral
+193,Course,The course content felt repetitive and became difficult to stay interested in.,12,course content felt repetitive became difficult stay interested,-0.2023,Negative
+194,Learning Material,The provided resources were useful for revision.,7,provided resources useful revision,0.4404,Positive
+195,Course,The course content was well organized and helped me understand the main concepts.,13,course content well organized helped understand main concepts,0.2732,Positive
+196,Learning Material,Some lecture notes were outdated and needed revision.,8,lecture notes outdated needed revision,0.0,Neutral
+197,Mentorship,The mentor provided constructive feedback throughout the program.,8,mentor provided constructive feedback throughout program,0.0,Neutral
+198,Instructor,The instructor provided explanations for the main concepts covered in class.,11,instructor provided explanations main concepts covered class,0.0,Neutral
+199,Internship,The tasks were relevant to my field of study.,9,tasks relevant field study,0.0,Neutral
+200,Learning Material,The course included enough resources for independent study.,8,course included enough resources independent study,0.0,Neutral
+201,Mentorship,The mentor regularly guided me when I faced technical problems.,10,mentor regularly guided faced technical problems,-0.4019,Negative
+202,Instructor,The instructor was generally helpful during practical sessions.,8,instructor generally helpful practical sessions,0.4215,Positive
+203,Communication,The instructions were communicated clearly throughout the program.,8,instructions communicated clearly throughout program,0.4019,Positive
+204,Projects,The project provided good practical experience.,6,project provided good practical experience,0.4404,Positive
+205,Communication,The communication schedule was reasonably consistent.,6,communication schedule reasonably consistent,0.0,Neutral
+206,Course,The instructor and course structure made the learning experience enjoyable.,10,instructor course structure made learning experience enjoyable,0.4404,Positive
+207,Mentorship,The mentorship was useful but could have included more frequent meetings.,11,mentorship useful could included frequent meetings,0.2382,Positive
+208,Mentorship,I needed more technical guidance during the internship.,8,needed technical guidance internship,0.0,Neutral
+209,Learning Material,The resources were generally easy to access.,7,resources generally easy access,0.4404,Positive
+210,Projects,The project requirements were clearly explained.,6,project requirements clearly explained,0.4019,Positive
+211,Internship,The internship lacked a clear progression of responsibilities.,8,internship lacked clear progression responsibilities,0.3818,Positive
+212,Learning Material,Some important topics had very limited learning material.,8,important topics limited learning material,-0.101,Negative
+213,Internship,The internship schedule was manageable.,5,internship schedule manageable,0.0,Neutral
+214,Course,The overall workload of the course was moderate.,8,overall workload course moderate,0.0,Neutral
+215,Internship,The internship did not provide enough practical guidance.,8,internship provide enough practical guidance,0.0,Neutral
+216,Projects,The project presentation helped me improve my communication skills.,9,project presentation helped improve communication skills,0.4404,Positive
+217,Assignments,The assignments were repetitive and did not provide enough variety.,10,assignments repetitive provide enough variety,-0.25,Negative
+218,Instructor,The instructor was available during the scheduled consultation time.,9,instructor available scheduled consultation time,0.0,Neutral
+219,Internship,The internship gave me experience working with deadlines.,8,internship gave experience working deadlines,0.0,Neutral
+220,Mentorship,The feedback was too general to help me improve.,9,feedback general help improve,0.6808,Positive
+221,Learning Material,The videos were too short to explain complicated concepts properly.,10,videos short explain complicated concepts properly,0.0,Neutral
+222,Internship,I gained useful experience working independently.,6,gained useful experience working independently,0.6705,Positive
+223,Projects,The project deadline was too short for the amount of work required.,12,project deadline short amount work required,0.0,Neutral
+224,Mentorship,The mentorship sessions were not frequent enough.,7,mentorship sessions frequent enough,0.0,Neutral
+225,Course,The course was difficult to follow because the topics were not organized clearly.,13,course difficult follow topics organized clearly,-0.5801,Negative
+226,Mentorship,The mentor encouraged me to solve problems independently.,8,mentor encouraged solve problems independently,0.1531,Positive
+227,Mentorship,I appreciated the mentor's patience and support.,7,appreciated mentors patience support,0.7184,Positive
+228,Mentorship,The lack of regular mentorship made some tasks difficult.,9,lack regular mentorship made tasks difficult,-0.5859,Negative
+229,Internship,The projects completed during the internship improved my portfolio.,9,projects completed internship improved portfolio,0.4767,Positive
+230,Projects,The project required a reasonable amount of effort.,8,project required reasonable amount effort,0.0,Neutral
+231,Internship,The internship schedule was not clearly communicated.,7,internship schedule clearly communicated,-0.3089,Negative
+232,Projects,The project difficulty was moderate.,5,project difficulty moderate,-0.34,Negative
+233,Course,The course focused too much on theory and did not provide enough practical learning.,14,course focused much theory provide enough practical learning,0.3818,Positive
+234,Mentorship,There was not enough guidance during difficult tasks.,8,enough guidance difficult tasks,-0.3612,Negative
+235,Mentorship,The mentor provided basic guidance for the assigned tasks.,9,mentor provided basic guidance assigned tasks,0.0,Neutral
+236,Instructor,The instructor explained most topics well but some difficult concepts needed more examples.,13,instructor explained topics well difficult concepts needed examples,-0.3738,Negative
+237,Learning Material,The notes covered most of the topics discussed in lectures.,10,notes covered topics discussed lectures,0.0,Neutral
+238,Learning Material,The course needed better quality study materials.,7,course needed better quality study materials,0.4404,Positive
+239,Projects,The project requirements were unclear and changed several times.,9,project requirements unclear changed several times,-0.25,Negative
+240,Course,The course structure made it easy to follow the lessons from basic to advanced topics.,15,course structure made easy follow lessons basic advanced topics,0.5994,Positive
+241,Assignments,The assignments provided basic practice for the course topics.,9,assignments provided basic practice course topics,0.0,Neutral
+242,Projects,The project was one of the most useful parts of the course.,12,project one useful parts course,0.4927,Positive
+243,Communication,Some instructions required additional clarification.,5,instructions required additional clarification,0.0,Neutral
+244,Instructor,The instructor provided useful explanations during the lectures.,8,instructor provided useful explanations lectures,0.4404,Positive
+245,Assignments,Several questions were unrelated to what was taught in class.,10,several questions unrelated taught class,0.0,Neutral
+246,Assignments,The assignments helped connect theoretical concepts with practical work.,9,assignments helped connect theoretical concepts practical work,0.0,Neutral
+247,Communication,The communication was generally satisfactory.,5,communication generally satisfactory,0.3612,Positive
+248,Instructor,The instructor explained errors carefully and helped me learn from them.,11,instructor explained errors carefully helped learn,-0.2263,Negative
+249,Course,The weekly topics were manageable and followed a clear structure.,10,weekly topics manageable followed clear structure,0.3818,Positive
+250,Assignments,The grading criteria for assignments were not clearly explained.,9,grading criteria assignments clearly explained,-0.3089,Negative
+251,Projects,The project was completed according to the provided requirements.,9,project completed according provided requirements,0.0,Neutral
+252,Internship,The experience helped me identify areas where I need further improvement.,11,experience helped identify areas need improvement,0.4588,Positive
+253,Internship,The internship lacked clear instructions for several tasks.,8,internship lacked clear instructions several tasks,0.3818,Positive
+254,Learning Material,The material was reasonably organized.,5,material reasonably organized,0.0,Neutral
+255,Assignments,The assignments helped me identify weaknesses in my understanding.,9,assignments helped identify weaknesses understanding,-0.3612,Negative
+256,Communication,The team responded quickly when questions were raised.,8,team responded quickly questions raised,0.0,Neutral
+257,Mentorship,The feedback from the mentor helped me improve my work.,10,feedback mentor helped improve work,0.4404,Positive
+258,Instructor,The instructor explained programming concepts using easy-to-understand examples.,8,instructor explained programming concepts using easytounderstand examples,0.0,Neutral
+259,Course,The course was acceptable but some lessons felt less relevant.,10,course acceptable lessons felt less relevant,0.1655,Positive
+260,Instructor,Questions from students were not always answered clearly.,8,questions students always answered clearly,-0.3089,Negative
+261,Mentorship,The mentorship was one of the strongest parts of the program.,11,mentorship one strongest parts program,0.4404,Positive
+262,Mentorship,The regular feedback improved the quality of my work.,9,regular feedback improved quality work,0.4767,Positive
+263,Course,The course did not provide enough examples to explain difficult concepts.,11,course provide enough examples explain difficult concepts,-0.3612,Negative
+264,Projects,The project instructions were confusing.,5,project instructions confusing,-0.2263,Negative
+265,Projects,The project gave me useful experience working with real data.,10,project gave useful experience working real data,0.4404,Positive
+266,Internship,The internship provided basic exposure to professional projects.,8,internship provided basic exposure professional projects,0.0,Neutral
+267,Internship,The internship tasks were repetitive and did not provide enough learning opportunities.,12,internship tasks repetitive provide enough learning opportunities,0.1531,Positive
+268,Course,The course provided a reasonable introduction to the subject.,9,course provided reasonable introduction subject,0.0,Neutral
+269,Course,The subject became easier to understand after completing the practical activities.,11,subject became easier understand completing practical activities,0.4215,Positive
+270,Instructor,The instructor created a positive environment where students could ask questions.,11,instructor created positive environment students could ask questions,0.6808,Positive
+271,Learning Material,The provided materials were useful for reviewing lectures.,8,provided materials useful reviewing lectures,0.4404,Positive
+272,Projects,I enjoyed developing the project because it solved a practical problem.,11,enjoyed developing project solved practical problem,0.4019,Positive
+273,Learning Material,The learning resources were well organized.,6,learning resources well organized,0.2732,Positive
+274,Mentorship,The mentorship experience was satisfactory overall.,6,mentorship experience satisfactory overall,0.3612,Positive
+275,Internship,The internship helped me understand how technical skills are used in real projects.,13,internship helped understand technical skills used real projects,0.0,Neutral
+276,Projects,The project became stressful because of unclear requirements.,8,project became stressful unclear requirements,-0.6486,Negative
+277,Communication,Communication was sometimes slow and made it difficult to complete tasks on time.,13,communication sometimes slow made difficult complete tasks time,-0.3612,Negative
+278,Mentorship,The mentor helped me understand some difficult technical concepts.,9,mentor helped understand difficult technical concepts,-0.3612,Negative
+279,Mentorship,The mentor was available during scheduled sessions.,7,mentor available scheduled sessions,0.0,Neutral
+280,Instructor,The instructor was respectful and treated students fairly.,8,instructor respectful treated students fairly,0.4588,Positive
+281,Internship,There was not enough feedback on completed internship tasks.,9,enough feedback completed internship tasks,0.0,Neutral
+282,Instructor,The instructor provided excellent guidance during the project.,8,instructor provided excellent guidance project,0.5719,Positive
+283,Communication,The team provided useful information about deadlines.,7,team provided useful information deadlines,0.4404,Positive
+284,Instructor,The teaching style made some topics difficult to understand.,9,teaching style made topics difficult understand,-0.3612,Negative
+285,Instructor,The instructor was sometimes unavailable when students needed assistance.,9,instructor sometimes unavailable students needed assistance,0.0,Neutral
+286,Assignments,The instructor provided helpful feedback on completed assignments.,8,instructor provided helpful feedback completed assignments,0.4215,Positive
+287,Learning Material,The learning resources provided a basic understanding of the subject.,10,learning resources provided basic understanding subject,0.0,Neutral
+288,Instructor,The instructor provided adequate support throughout the semester.,8,instructor provided adequate support throughout semester,0.5574,Positive
+289,Instructor,The instructor did not provide enough examples for complicated concepts.,10,instructor provide enough examples complicated concepts,0.0,Neutral
+290,Course,The course provided a basic understanding of the subject.,9,course provided basic understanding subject,0.0,Neutral
+291,Instructor,The instructor gave useful suggestions for improving our technical work.,10,instructor gave useful suggestions improving technical work,0.6908,Positive
+292,Assignments,The practical assignments helped me develop useful technical skills.,9,practical assignments helped develop useful technical skills,0.4404,Positive
+293,Assignments,The assignments provided good practice before the final assessment.,9,assignments provided good practice final assessment,0.4404,Positive
+294,Mentorship,The mentor helped me understand industry practices.,7,mentor helped understand industry practices,0.0,Neutral
+295,Projects,The project helped me develop skills that are useful for internships.,11,project helped develop skills useful internships,0.4404,Positive
+296,Communication,The communication between students and mentors was effective.,8,communication students mentors effective,0.4767,Positive
+297,Internship,The internship encouraged me to learn technologies outside my previous experience.,11,internship encouraged learn technologies outside previous experience,0.3612,Positive
+298,Mentorship,The mentor did not clearly explain some project requirements.,9,mentor clearly explain project requirements,-0.3089,Negative
+299,Learning Material,There were not enough practical examples in the study resources.,10,enough practical examples study resources,0.0,Neutral
+300,Internship,The internship helped me understand the expectations of a professional environment.,11,internship helped understand expectations professional environment,0.0,Neutral

@@ -1,0 +1,302 @@
+review_id,category,review
+1,Communication,Some information was shared later than expected.
+2,Assignments,The assignment deadlines were too close together.
+3,Assignments,Some assignment instructions were confusing and incomplete.
+4,Learning Material,The learning material contained useful practical examples.
+5,Mentorship,The mentor helped me identify mistakes and improve my approach.
+6,Instructor,The instructor sometimes changed instructions without explaining the reason.
+7,Learning Material,The material provided useful references for assignments.
+8,Assignments,The assignment questions were clear and related to the course content.
+9,Instructor,The instructor usually explained the topics at a reasonable pace.
+10,Assignments,The assignments helped me practice the concepts taught in class.
+11,Projects,The project was useful but required additional research.
+12,Communication,The communication process made the internship easier to manage.
+13,Projects,The project helped me improve my documentation skills.
+14,Internship,The internship experience was useful for my career development.
+15,Assignments,The assignment workload created unnecessary pressure.
+16,Mentorship,The regular guidance made the internship easier to manage.
+17,Mentorship,The mentor shared useful resources for learning.
+18,Projects,I would recommend including similar projects in future courses.
+19,Assignments,The assignments were challenging but improved my understanding.
+20,Assignments,The assignment workload was moderate during most weeks.
+21,Course,The course workload was too heavy compared with the available time.
+22,Course,The course covered the important topics that were expected from the subject.
+23,Assignments,The assignments were acceptable but could include more practical problems.
+24,Internship,The internship included a reasonable combination of learning and practical tasks.
+25,Internship,The internship improved my confidence in working on technical projects.
+26,Assignments,Some assignments were useful while others were less relevant.
+27,Course,The course gave me confidence to work on similar projects independently.
+28,Course,The course included both theoretical concepts and some practical activities.
+29,Communication,Most announcements were shared through the expected channels.
+30,Projects,The project provided some opportunities for creative solutions.
+31,Mentorship,The guidance helped me become more confident with technical tasks.
+32,Projects,The project was challenging but rewarding.
+33,Instructor,The instructor was supportive and encouraged students to ask questions.
+34,Internship,The internship provided valuable exposure to real project requirements.
+35,Projects,The project was a valuable addition to the course.
+36,Course,Several topics were covered too quickly and were difficult to understand.
+37,Learning Material,The provided notes were difficult to understand without additional resources.
+38,Projects,The project did not provide enough opportunities for practical learning.
+39,Mentorship,The mentorship experience did not meet my expectations.
+40,Assignments,The feedback on assignments was often delayed.
+41,Projects,The project required tools that were not properly explained.
+42,Instructor,The instructor spent too much time on theory and not enough on practical examples.
+43,Communication,I received important updates on time.
+44,Assignments,The instructions were generally clear but a few questions needed clarification.
+45,Assignments,The workload from assignments was manageable.
+46,Instructor,The instructor encouraged me to improve my problem-solving skills.
+47,Mentorship,The mentor gave practical advice about professional development.
+48,Learning Material,The study resources helped me prepare for assessments.
+49,Mentorship,The mentor gave feedback on major project milestones.
+50,Instructor,The instructor explained difficult concepts clearly and patiently.
+51,Learning Material,The additional resources helped me explore topics beyond the syllabus.
+52,Course,I found the course interesting and useful for building my technical knowledge.
+53,Projects,The project improved my ability to work with a team.
+54,Internship,I learned several new skills during the internship.
+55,Learning Material,The resources helped me study independently.
+56,Instructor,The instructor gave helpful feedback on student work.
+57,Course,The course provided a good balance between theory and practical learning.
+58,Instructor,The instructor made the classroom environment comfortable for learning.
+59,Mentorship,The mentor explained tasks clearly and answered my questions.
+60,Course,The course was useful because the projects were related to real-world problems.
+61,Internship,The overall internship experience was disappointing.
+62,Learning Material,The combination of videos and notes supported different learning styles.
+63,Assignments,The assignments helped reinforce important concepts.
+64,Learning Material,The learning resources were not organized in a clear order.
+65,Assignments,"Overall, the assignment system supported my learning."
+66,Mentorship,The guidance provided was adequate for completing the tasks.
+67,Instructor,The instructor answered questions when students requested clarification.
+68,Assignments,The assignments provided reasonable opportunities to practice.
+69,Course,The topics were relevant to my field of study and career goals.
+70,Projects,The project helped me build something that could be added to my portfolio.
+71,Course,The course was neither too difficult nor too easy for most of the semester.
+72,Communication,The information provided was adequate for completing tasks.
+73,Projects,Team coordination made the project difficult to complete.
+74,Internship,I would recommend this internship to students looking for practical experience.
+75,Internship,The tasks sometimes felt like routine work rather than learning opportunities.
+76,Internship,The program provided useful learning opportunities.
+77,Assignments,The combination of theoretical and practical questions was useful.
+78,Mentorship,Feedback from the mentor was often delayed.
+79,Projects,The project allowed us to apply concepts from different parts of the course.
+80,Course,The course covered the basic concepts but could have included more advanced topics.
+81,Instructor,The instructor followed the planned syllabus for most of the course.
+82,Learning Material,The course resources improved my understanding of difficult topics.
+83,Course,The course provided several opportunities to practice what we learned.
+84,Course,The course helped me improve my understanding of machine learning concepts.
+85,Assignments,The assignments were useful for identifying areas where I needed improvement.
+86,Instructor,The explanations were unclear during some of the more difficult lectures.
+87,Course,The course was informative and provided useful knowledge for future projects.
+88,Mentorship,The mentor rarely responded to questions.
+89,Course,The overall course experience was disappointing because of poor organization.
+90,Course,The course lacked practical activities that could help students apply their knowledge.
+91,Mentorship,The mentor created a comfortable environment for asking questions.
+92,Communication,Updates were provided at different times through different channels.
+93,Learning Material,The quality of the learning material was satisfactory.
+94,Learning Material,The examples in the learning material made difficult topics easier.
+95,Internship,The internship experience was acceptable overall.
+96,Learning Material,The learning resources made revision easier.
+97,Learning Material,The learning material was helpful when preparing for exams.
+98,Instructor,The instructor did not give enough feedback on assignments.
+99,Learning Material,The learning material was one of the useful parts of the course.
+100,Assignments,The assignments required a moderate amount of effort.
+101,Learning Material,The notes were acceptable but needed more examples.
+102,Mentorship,The mentor was sometimes unavailable when support was needed.
+103,Projects,The project helped me understand the subject more deeply.
+104,Internship,The program was a good opportunity to apply academic knowledge.
+105,Course,The course objectives were not clearly explained at the beginning.
+106,Learning Material,The learning material covered the required topics.
+107,Communication,Communication was acceptable but could be more consistent.
+108,Learning Material,The videos and notes supported my understanding of the subject.
+109,Projects,The project encouraged me to explore technologies beyond the syllabus.
+110,Assignments,The assignments were useful preparation for the final project.
+111,Learning Material,Some links and resources were no longer available.
+112,Assignments,The assignments encouraged me to research and solve problems independently.
+113,Projects,The project lacked realistic examples to guide students.
+114,Projects,The project was too difficult because there was not enough guidance.
+115,Internship,The internship was well structured and easy to follow.
+116,Course,The lessons were connected logically and helped me build knowledge step by step.
+117,Learning Material,The practical examples in the notes improved my understanding.
+118,Learning Material,The learning material was repetitive and lacked useful examples.
+119,Course,The course was satisfactory and covered most of the required topics.
+120,Mentorship,My mentor was supportive and provided useful feedback.
+121,Projects,The project was interesting and closely related to real-world applications.
+122,Instructor,The instructor was knowledgeable and answered most questions confidently.
+123,Mentorship,The mentor answered most questions within a reasonable time.
+124,Communication,Regular updates helped me understand project expectations.
+125,Mentorship,The mentor provided guidance when it was requested.
+126,Internship,The tasks provided reasonable opportunities to learn new technologies.
+127,Instructor,The instructor encouraged students to participate in discussions.
+128,Communication,The instructions were clear and easy to follow.
+129,Course,The course was well planned and the weekly learning objectives were clear.
+130,Learning Material,The resources were easy to access and follow.
+131,Instructor,The instructor connected classroom concepts with real industry examples.
+132,Projects,The overall project experience was satisfactory.
+133,Course,The course material was outdated and needed to be updated.
+134,Instructor,The instructor often moved through difficult topics too quickly.
+135,Course,The practical activities made the course more engaging and useful.
+136,Projects,The project instructions were mostly clear.
+137,Course,The overall course experience was positive and educational.
+138,Communication,The communication channels were easy to use.
+139,Internship,The internship provided valuable practical experience.
+140,Learning Material,The examples were relevant to real-world applications.
+141,Projects,The project included both research and implementation work.
+142,Instructor,The instructor was professional and well prepared for the lectures.
+143,Instructor,The instructor responded to most student questions.
+144,Projects,The project encouraged teamwork and collaboration.
+145,Learning Material,The learning material contained too many confusing explanations.
+146,Assignments,The instructions for most assignments were clear.
+147,Instructor,The instructor's teaching style was acceptable overall.
+148,Communication,The team usually responded to questions.
+149,Projects,The project gave me experience solving real-world problems.
+150,Mentorship,The mentor provided useful career-related suggestions.
+151,Projects,The final project gave me confidence in applying my technical knowledge.
+152,Internship,The internship was useful but could include more advanced tasks.
+153,Internship,The internship gave me an opportunity to work on meaningful tasks.
+154,Communication,Communication with the team was clear and professional.
+155,Course,"The course content was useful, although some topics required additional study."
+156,Projects,Working on the project improved my technical and problem-solving skills.
+157,Assignments,The practical tasks improved my confidence in programming.
+158,Instructor,The instructor was one of the strongest parts of the course.
+159,Internship,The internship helped me understand professional project workflows.
+160,Assignments,Most assignments were completed within the given deadlines.
+161,Internship,The overall internship experience was satisfactory.
+162,Course,The course gave me a good foundation in the subject.
+163,Learning Material,Some resources were helpful while others were less detailed.
+164,Instructor,The lectures could have been more interactive and engaging.
+165,Internship,I gained practical experience that I can include in my portfolio.
+166,Mentorship,The mentor provided useful suggestions for improving projects.
+167,Internship,Some tasks were unrelated to the skills I wanted to develop.
+168,Internship,The internship improved my ability to manage technical tasks.
+169,Assignments,The assignments encouraged creative problem solving.
+170,Projects,There was not enough feedback during the project.
+171,Assignments,Some assignments were difficult because examples were not provided.
+172,Assignments,The assignments were a good way to review weekly topics.
+173,Mentorship,The mentor discussed my progress during regular meetings.
+174,Internship,The internship provided good exposure to a professional work environment.
+175,Internship,The practical tasks improved my technical abilities.
+176,Mentorship,The mentor was approachable and professional.
+177,Assignments,The assignments covered the main topics from the lectures.
+178,Assignments,The assignments required more time than was available.
+179,Learning Material,The lecture notes provided useful explanations of the main concepts.
+180,Course,I would recommend this course to students interested in developing technical skills.
+181,Learning Material,The learning material was adequate for the course.
+182,Course,I enjoyed the course because it included useful examples and practical exercises.
+183,Assignments,The difficulty level of the assignments was appropriate.
+184,Internship,The workload was difficult to manage during some weeks.
+185,Assignments,The assignments were unnecessarily difficult and time consuming.
+186,Instructor,The instructor regularly checked whether students understood the topic.
+187,Instructor,The instructor made difficult programming topics much easier to understand.
+188,Instructor,The instructor used practical examples to make complicated topics easier.
+189,Learning Material,The learning material was clear and easy to understand.
+190,Mentorship,The mentor encouraged me to learn independently.
+191,Assignments,The assignments improved my ability to solve problems independently.
+192,Projects,The practical project helped me understand how theoretical concepts are used.
+193,Course,The course content felt repetitive and became difficult to stay interested in.
+194,Learning Material,The provided resources were useful for revision.
+195,Course,The course content was well organized and helped me understand the main concepts.
+196,Learning Material,Some lecture notes were outdated and needed revision.
+197,Mentorship,The mentor provided constructive feedback throughout the program.
+198,Instructor,The instructor provided explanations for the main concepts covered in class.
+199,Internship,The tasks were relevant to my field of study.
+200,Learning Material,The course included enough resources for independent study.
+201,Mentorship,The mentor regularly guided me when I faced technical problems.
+202,Instructor,The instructor was generally helpful during practical sessions.
+203,Communication,The instructions were communicated clearly throughout the program.
+204,Projects,The project provided good practical experience.
+205,Communication,The communication schedule was reasonably consistent.
+206,Course,The instructor and course structure made the learning experience enjoyable.
+207,Mentorship,The mentorship was useful but could have included more frequent meetings.
+208,Mentorship,I needed more technical guidance during the internship.
+209,Learning Material,The resources were generally easy to access.
+210,Projects,The project requirements were clearly explained.
+211,Internship,The internship lacked a clear progression of responsibilities.
+212,Learning Material,Some important topics had very limited learning material.
+213,Internship,The internship schedule was manageable.
+214,Course,The overall workload of the course was moderate.
+215,Internship,The internship did not provide enough practical guidance.
+216,Projects,The project presentation helped me improve my communication skills.
+217,Assignments,The assignments were repetitive and did not provide enough variety.
+218,Instructor,The instructor was available during the scheduled consultation time.
+219,Internship,The internship gave me experience working with deadlines.
+220,Mentorship,The feedback was too general to help me improve.
+221,Learning Material,The videos were too short to explain complicated concepts properly.
+222,Internship,I gained useful experience working independently.
+223,Projects,The project deadline was too short for the amount of work required.
+224,Mentorship,The mentorship sessions were not frequent enough.
+225,Course,The course was difficult to follow because the topics were not organized clearly.
+226,Mentorship,The mentor encouraged me to solve problems independently.
+227,Mentorship,I appreciated the mentor's patience and support.
+228,Mentorship,The lack of regular mentorship made some tasks difficult.
+229,Internship,The projects completed during the internship improved my portfolio.
+230,Projects,The project required a reasonable amount of effort.
+231,Internship,The internship schedule was not clearly communicated.
+232,Projects,The project difficulty was moderate.
+233,Course,The course focused too much on theory and did not provide enough practical learning.
+234,Mentorship,There was not enough guidance during difficult tasks.
+235,Mentorship,The mentor provided basic guidance for the assigned tasks.
+236,Instructor,The instructor explained most topics well but some difficult concepts needed more examples.
+237,Learning Material,The notes covered most of the topics discussed in lectures.
+238,Learning Material,The course needed better quality study materials.
+239,Projects,The project requirements were unclear and changed several times.
+240,Course,The course structure made it easy to follow the lessons from basic to advanced topics.
+241,Assignments,The assignments provided basic practice for the course topics.
+242,Projects,The project was one of the most useful parts of the course.
+243,Communication,Some instructions required additional clarification.
+244,Instructor,The instructor provided useful explanations during the lectures.
+245,Assignments,Several questions were unrelated to what was taught in class.
+246,Assignments,The assignments helped connect theoretical concepts with practical work.
+247,Communication,The communication was generally satisfactory.
+248,Instructor,The instructor explained errors carefully and helped me learn from them.
+249,Course,The weekly topics were manageable and followed a clear structure.
+250,Assignments,The grading criteria for assignments were not clearly explained.
+251,Projects,The project was completed according to the provided requirements.
+252,Internship,The experience helped me identify areas where I need further improvement.
+253,Internship,The internship lacked clear instructions for several tasks.
+254,Learning Material,The material was reasonably organized.
+255,Assignments,The assignments helped me identify weaknesses in my understanding.
+256,Communication,The team responded quickly when questions were raised.
+257,Mentorship,The feedback from the mentor helped me improve my work.
+258,Instructor,The instructor explained programming concepts using easy-to-understand examples.
+259,Course,The course was acceptable but some lessons felt less relevant.
+260,Instructor,Questions from students were not always answered clearly.
+261,Mentorship,The mentorship was one of the strongest parts of the program.
+262,Mentorship,The regular feedback improved the quality of my work.
+263,Course,The course did not provide enough examples to explain difficult concepts.
+264,Projects,The project instructions were confusing.
+265,Projects,The project gave me useful experience working with real data.
+266,Internship,The internship provided basic exposure to professional projects.
+267,Internship,The internship tasks were repetitive and did not provide enough learning opportunities.
+268,Course,The course provided a reasonable introduction to the subject.
+269,Course,The subject became easier to understand after completing the practical activities.
+270,Instructor,The instructor created a positive environment where students could ask questions.
+271,Learning Material,The provided materials were useful for reviewing lectures.
+272,Projects,I enjoyed developing the project because it solved a practical problem.
+273,Learning Material,The learning resources were well organized.
+274,Mentorship,The mentorship experience was satisfactory overall.
+275,Internship,The internship helped me understand how technical skills are used in real projects.
+276,Projects,The project became stressful because of unclear requirements.
+277,Communication,Communication was sometimes slow and made it difficult to complete tasks on time.
+278,Mentorship,The mentor helped me understand some difficult technical concepts.
+279,Mentorship,The mentor was available during scheduled sessions.
+280,Instructor,The instructor was respectful and treated students fairly.
+281,Internship,There was not enough feedback on completed internship tasks.
+282,Instructor,The instructor provided excellent guidance during the project.
+283,Communication,The team provided useful information about deadlines.
+284,Instructor,The teaching style made some topics difficult to understand.
+285,Instructor,The instructor was sometimes unavailable when students needed assistance.
+286,Assignments,The instructor provided helpful feedback on completed assignments.
+287,Learning Material,The learning resources provided a basic understanding of the subject.
+288,Instructor,The instructor provided adequate support throughout the semester.
+289,Instructor,The instructor did not provide enough examples for complicated concepts.
+290,Course,The course provided a basic understanding of the subject.
+291,Instructor,The instructor gave useful suggestions for improving our technical work.
+292,Assignments,The practical assignments helped me develop useful technical skills.
+293,Assignments,The assignments provided good practice before the final assessment.
+294,Mentorship,The mentor helped me understand industry practices.
+295,Projects,The project helped me develop skills that are useful for internships.
+296,Communication,The communication between students and mentors was effective.
+297,Internship,The internship encouraged me to learn technologies outside my previous experience.
+298,Mentorship,The mentor did not clearly explain some project requirements.
+299,Learning Material,There were not enough practical examples in the study resources.
+300,Internship,The internship helped me understand the expectations of a professional environment.
+,,
