@@ -30,7 +30,7 @@ The main objectives of this project are:
 - Identify important themes using TF-IDF
 - Analyze sentiment across different feedback categories
 - Visualize sentiment and keyword patterns
-- Generate actionable insights from feedback
+- Generate findings from the analyzed feedback
 
 ---
 
@@ -88,7 +88,11 @@ Visualization
      ↓
 Key Findings
 
-🧹 Text Preprocessing
+```
+
+---
+
+## 🧹 Text Preprocessing
 
 The review text was cleaned and prepared for analysis using several preprocessing techniques.
 
@@ -103,7 +107,7 @@ Removing common English stopwords
 
 A separate cleaned_review column was created while preserving the original review text.
 
-🤖 Sentiment Analysis
+## 🤖 Sentiment Analysis
 
 The project uses VADER (Valence Aware Dictionary and sEntiment Reasoner) for sentiment analysis.
 
@@ -121,9 +125,9 @@ Each review receives:
 A compound sentiment score
 A sentiment label
 
-The final analyzed dataset therefore contains the sentiment information for all 300 reviews.
+The final analyzed dataset contains the sentiment information for all 300 reviews.
 
-🔎 Keyword Analysis
+## 🔎 Keyword Analysis
 
 Common keywords were extracted separately from positive and negative reviews.
 
@@ -137,7 +141,7 @@ Negative Keywords
 
 The most frequently occurring words in negative reviews were analyzed to identify potential problems and areas for improvement.
 
-📚 TF-IDF Theme Analysis
+## 📚 TF-IDF Theme Analysis
 
 TF-IDF (Term Frequency-Inverse Document Frequency) was used to identify important terms within the review dataset.
 
@@ -145,30 +149,100 @@ TF-IDF helps determine which words are particularly informative rather than simp
 
 The highest-scoring terms were used to identify common themes in the feedback.
 
-📈 Visualizations
+## 📈 Visualizations
 
 The project includes several visualizations to make the results easier to understand.
 
-1. Overall Sentiment Distribution
+1. Number of Reviews by Category
+
+Shows how the 300 reviews are distributed across different feedback categories.
+
+2. Distribution of Review Length
+
+Shows the distribution of reviews based on the number of words.
+
+3. Overall Sentiment Distribution
 
 Shows the number of Positive, Neutral, and Negative reviews.
 
-2. Sentiment Distribution by Category
+4. Percentage of Reviews by Sentiment
+
+Shows the percentage distribution of Positive, Neutral, and Negative reviews.
+
+5. Sentiment Distribution by Category
 
 Compares sentiment across different feedback categories.
 
-3. Positive Keywords
+6. Top Keywords in Positive Reviews
 
 Shows the most frequently occurring keywords in positive reviews.
 
-4. Negative Keywords
+7. Top Keywords in Negative Reviews
 
 Shows the most frequently occurring keywords in negative reviews.
 
-5. Positive Review Themes
+8. Positive Review Themes
 
 A word cloud showing frequently occurring terms in positive feedback.
 
-6. TF-IDF Themes
+9. Negative Review Themes
+
+A word cloud showing frequently occurring terms in negative feedback.
+
+10. TF-IDF Themes
 
 Shows the most important terms identified using TF-IDF analysis.
+
+## 📁 Project Files
+
+The repository contains:
+
+Google Colab Notebook — Complete sentiment analysis pipeline
+Original Dataset — 300 sample reviews before analysis
+Analyzed Dataset — Reviews with preprocessing and sentiment analysis results
+Output Visualizations — Graphs and visualizations generated during the analysis
+README.md — Project documentation
+
+## 🛠️ Technologies Used
+Python
+Pandas
+NumPy
+NLTK
+VADER Sentiment Analysis
+Scikit-learn
+Matplotlib
+Seaborn
+WordCloud
+Google Colab
+
+## 📌 Key Findings
+
+The analysis of 300 reviews was used to identify:
+
+Overall sentiment distribution
+Sentiment differences across feedback categories
+Common keywords in positive reviews
+Common keywords in negative reviews
+Frequently occurring positive and negative themes
+Important terms identified using TF-IDF
+
+The detailed findings and visual results are available in the Google Colab notebook and output visualizations included in this repository.
+
+## 💡 Business / University Value
+
+This pipeline can help universities and organizations analyze open-text feedback more efficiently.
+
+It can be applied to:
+
+Student course feedback
+Instructor feedback
+Assignment and project feedback
+Internship feedback
+Mentorship feedback
+Communication feedback
+
+For SafeX Solutions, a similar approach could be applied to internship feedback to identify common positive and negative areas and support improvements based on feedback.
+
+## ⚠️ Dataset Note
+
+The 300 reviews used in this project are sample reviews created for educational and demonstration purposes. They do not represent actual SafeX Solutions internship feedback or real university student responses.
