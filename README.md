@@ -246,3 +246,7 @@ For SafeX Solutions, a similar approach could be applied to internship feedback 
 ## ⚠️ Dataset Note
 
 The 300 reviews used in this project are sample reviews created for educational and demonstration purposes. They do not represent actual SafeX Solutions internship feedback or real university student responses.
+
+## 👩‍💻 Author
+
+Saliha Bibi
